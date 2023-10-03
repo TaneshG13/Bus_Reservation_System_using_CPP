@@ -13,4 +13,5 @@ The Bus Reservation System is a C++ project developed using Object-Oriented Prog
 ### Note:
 seats count decreses as they gets reserved.
 
-
+## Screenshot
+!(https://github.com/TaneshG13/Bus_Reservation_System_using_CPP/blob/main/screenshots/1.PNG)
